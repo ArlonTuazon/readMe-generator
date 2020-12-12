@@ -1,9 +1,9 @@
 
 const fs = require ('fs');
 const inquirer = require ('inquirer');
-
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
+const writeFileAsync = util.promisify(fs.writeFile)
 
 // array of questions for user
 const promptUser = () => {
@@ -80,8 +80,8 @@ const promptUser = () => {
 } 
 
 promptUser().then(function(response){
-    // const markdown = generateMD(response);
-    // return writeFileAsync("./generated/generatedREADME.md", markdown);
+     const markdown = generateMarkdown(response);
+     return writeFileAsync("./newReadMe/newREADME.md", markdown);
 }).then(function () {
         console.log("Generating README.md ...");
     }).catch(function(err){
