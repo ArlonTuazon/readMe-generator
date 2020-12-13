@@ -1,8 +1,8 @@
 
 const fs = require ('fs');
 const inquirer = require ('inquirer');
+const util = require('util');
 const generateMarkdown = require('./utils/generateMarkdown.js');
-
 const writeFileAsync = util.promisify(fs.writeFile)
 
 // array of questions for user
@@ -23,7 +23,7 @@ const promptUser = () => {
      },
      {   
         type: 'input',
-        name: 'projectName',
+        name: 'title',
         message: 'What is the title of your Project?',
         validate: reply => {
             if (reply) {
