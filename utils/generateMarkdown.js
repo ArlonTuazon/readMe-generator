@@ -27,27 +27,28 @@ function generateMarkdown(response) {
      * [Questions](#questions)
      
   ## Installation:
-     *Steps required to install this Project.*
+     Steps required to install this Project.
      ${response.installation}
 
   ## Usage:
-     *Uses for this Project.*
+     Uses for this Project.
      ${response.usage}
 
   ## License
-     *This Project is under License of:*
+     This Project is under License of:
      ${response.license}
 
   ## Contributing
-     *If you want to contribute, please follow the guidelinse.*
+     If you want to contribute, please follow the guidelines.
      ${response.contribute}
   
   ## Tests
-     *Instruction on how to run this projec:*
+     Instruction on how to run this project:
      ${response.test}   
 
   ## Questions
-     If you have any questions, you may contact me on [GitHub] (https://github.com/${response.userName}) or contact 
+     If you have any questions, you may contact me on 
+     [GitHub] (https://github.com/${response.userName}) or contact 
      ${response.author} at ${response.email}
      ![picture](https://github.com/${response.userName}.png?size=80)   
 
