@@ -19,12 +19,12 @@ function generateMarkdown(response) {
   ## ${response.description}
 
   ## Table of Contents
-   [Installation](#installation)
-   [Usage](#usage)
-   [License](#license)
-   [Contributing](#contributing)
-   [Tests](#tests)
-   [Questions](#questions)
+  #### [Installation](#installation)
+  #### [Usage](#usage)
+  #### [License](#license)
+  #### [Contributing](#contributing)
+  #### [Tests](#tests)
+  #### [Questions](#questions)
      
   ## Installation:
      Steps required to install this Project.

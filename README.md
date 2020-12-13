@@ -13,6 +13,6 @@
    You have to open your console and run node filename.js
 
  ## If you have any questions, you may contact me on 
- [GitHub] (https://github.com/ArlonTuazon) or contact 
- ####     Arlon Tuazon at nikka1378@yahoo.com
- ####    ![picture](https://github.com/ArlonTuazon.png?size=80)   
+ #### [GitHub] (https://github.com/ArlonTuazon) or contact 
+ #### Arlon Tuazon at nikka1378@yahoo.com
+ #### ![picture](https://github.com/ArlonTuazon.png?size=80)   
