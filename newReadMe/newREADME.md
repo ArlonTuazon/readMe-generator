@@ -1,26 +1,26 @@
-# readme ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+# readme ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
   ## readme gen
 
   ## Table of Contents
-     * [Installation](#installation)
-     * [Usage](#usage)
-     * [License](#license)
-     * [Contributing](#contributing)
-     * [Tests](#tests)
-     * [Questions](#questions)
+   [Installation](#installation)
+   [Usage](#usage)
+   [License](#license)
+   [Contributing](#contributing)
+   [Tests](#tests)
+   [Questions](#questions)
      
   ## Installation:
      Steps required to install this Project.
-     all commands
+     commands
 
   ## Usage:
      Uses for this Project.
-     run it
+     instructions
 
   ## License
      This Project is under License of:
-     MIT
+     GPL 3.0
 
   ## Contributing
      If you want to contribute, please follow the guidelines.
@@ -28,11 +28,11 @@
   
   ## Tests
      Instruction on how to run this project:
-     commands   
+     run   
 
   ## Questions
   ####   If you have any questions, you may contact me on 
-  ####   [GitHub] (https://github.com/ArlonTuazon) or contact 
+  ####   [Github] (https://github.com/Arlontuazon) or contact 
   ####   Arlon Tuazon at nikka1378@yahoo.com
-  ####   ![picture](https://github.com/ArlonTuazon.png?size=80)   
+  ####   ![picture](https://github.com/Arlontuazon.png?size=80)   
 

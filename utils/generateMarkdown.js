@@ -19,12 +19,12 @@ function generateMarkdown(response) {
   ## ${response.description}
 
   ## Table of Contents
-     * [Installation](#installation)
-     * [Usage](#usage)
-     * [License](#license)
-     * [Contributing](#contributing)
-     * [Tests](#tests)
-     * [Questions](#questions)
+   [Installation](#installation)
+   [Usage](#usage)
+   [License](#license)
+   [Contributing](#contributing)
+   [Tests](#tests)
+   [Questions](#questions)
      
   ## Installation:
      Steps required to install this Project.
@@ -48,7 +48,7 @@ function generateMarkdown(response) {
 
   ## Questions
   ####   If you have any questions, you may contact me on 
-  ####   [GitHub] (https://github.com/${response.userName}) or contact 
+  ####   [Github] (https://github.com/${response.userName}) or contact 
   ####   ${response.author} at ${response.email}
   ####   ![picture](https://github.com/${response.userName}.png?size=80)   
 
