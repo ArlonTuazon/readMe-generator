@@ -1,14 +1,14 @@
 # readme ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## readme gen
+  ## redme gen
 
   ## Table of Contents
-   [Installation](#installation)
-   [Usage](#usage)
-   [License](#license)
-   [Contributing](#contributing)
-   [Tests](#tests)
-   [Questions](#questions)
+  #### [Installation](#installation)
+  #### [Usage](#usage)
+  #### [License](#license)
+  #### [Contributing](#contributing)
+  #### [Tests](#tests)
+  #### [Questions](#questions)
      
   ## Installation:
      Steps required to install this Project.
@@ -16,7 +16,7 @@
 
   ## Usage:
      Uses for this Project.
-     instructions
+     use
 
   ## License
      This Project is under License of:
@@ -32,7 +32,7 @@
 
   ## Questions
   ####   If you have any questions, you may contact me on 
-  ####   [Github] (https://github.com/Arlontuazon) or contact 
+  ####   [Github] (https://github.com/ArlonTuazon) or contact 
   ####   Arlon Tuazon at nikka1378@yahoo.com
-  ####   ![picture](https://github.com/Arlontuazon.png?size=80)   
+  ####   ![picture](https://github.com/ArlonTuazon.png?size=80)   
 
