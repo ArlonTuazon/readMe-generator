@@ -16,6 +16,41 @@ function generateMarkdown(response) {
   
   return `# ${response.title} ${badge}
 
+  ## ${response.description}
+
+  ## Table of Contents
+     * [Installation](#installation)
+     * [Usage](#usage)
+     * [License](#license)
+     * [Contributing](#contributing)
+     * [Tests](#tests)
+     * [Questions](#questions)
+     
+  ## Installation:
+     *Steps required to install this Project.*
+     ${response.installation}
+
+  ## Usage:
+     *Uses for this Project.*
+     ${response.usage}
+
+  ## License
+     *This Project is under License of:*
+     ${response.license}
+
+  ## Contributing
+     *If you want to contribute, please follow the guidelinse.*
+     ${response.contribute}
+  
+  ## Tests
+     *Instruction on how to run this projec:*
+     ${response.test}   
+
+  ## Questions
+     *If you have any questions, you may contact me on [GitHub](https://github.com/${response.userName}) or contact 
+     ${response.author} at ${response.email}
+     ![picture](https://github.com/${response.userName}.png?size=80)   
+
 `;
 }
 

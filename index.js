@@ -8,6 +8,17 @@ const writeFileAsync = util.promisify(fs.writeFile)
 // array of questions for user
 const promptUser = () => {
     return inquirer.prompt([
+    {
+        type: "input",
+        name: "author",
+        message: "What is the author's name?"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "What is your email address?"
+    },
+
      {  type: 'input',
         name: 'userName',
         message: 'What is your Github Username?',
@@ -83,7 +94,7 @@ promptUser().then(function(response){
      const markdown = generateMarkdown(response);
      return writeFileAsync("./newReadMe/newREADME.md", markdown);
 }).then(function () {
-        console.log("Generating README.md ...");
+        console.log("Success! You generated a ReadMe file.");
     }).catch(function(err){
     console.log(err)
 })
