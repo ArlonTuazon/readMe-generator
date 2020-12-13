@@ -1,6 +1,6 @@
 # readme ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## redme gen
+  ## readme
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -12,11 +12,11 @@
      
   ## Installation:
      Steps required to install this Project.
-     commands
+     command
 
   ## Usage:
      Uses for this Project.
-     use
+     instructions
 
   ## License
      This Project is under License of:
