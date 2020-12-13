@@ -1,6 +1,6 @@
 # Readme ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## This is a readme file generator
+  ## readme gen
 
   ## Table of Contents
      * [Installation](#installation)
@@ -12,11 +12,11 @@
      
   ## Installation:
      *Steps required to install this Project.*
-     npm
+     all commands
 
   ## Usage:
      *Uses for this Project.*
-     Open console and run node filename
+     readme gen
 
   ## License
      *This Project is under License of:*
@@ -24,14 +24,14 @@
 
   ## Contributing
      *If you want to contribute, please follow the guidelinse.*
-     Whatever you want
+     contribute
   
   ## Tests
      *Instruction on how to run this projec:*
-     use npm   
+     run   
 
   ## Questions
-     *If you have any questions, you may contact me on [GitHub](https://github.com/ArlonTuazon) or contact 
-     Arlon at nikka1378@yahoo.com
+     If you have any questions, you may contact me on [GitHub] (https://github.com/ArlonTuazon) or contact 
+     Arlon Tuazon at nikka1378@yahoo.com
      ![picture](https://github.com/ArlonTuazon.png?size=80)   
 

@@ -11,12 +11,30 @@ const promptUser = () => {
     {
         type: "input",
         name: "author",
-        message: "What is the author's name?"
+        message: "What is the author's name?",
+        validate: userAuthor => {
+            if (userAuthor) {
+                return true;
+            }
+            else {
+                console.log ('Please Enter your Name!')
+                return false;
+            }
+        }
     },
     {
         type: "input",
         name: "email",
-        message: "What is your email address?"
+        message: "What is your email address?",
+        validate: userEmail => {
+            if (userEmail) {
+                return true;
+            }
+            else {
+                console.log ('Please Enter your email address!')
+                return false;
+            }
+        }
     },
 
      {  type: 'input',
