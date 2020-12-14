@@ -1,6 +1,6 @@
-# ReadMe Generator ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# ReadMe Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-  ## Generate a readme file
+  ## This is a command line application that generates readme file
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -16,19 +16,19 @@
 
   ## Usage:
      Uses for this Project.
-     To generate a readme file
+     Please read instructions
 
   ## License
      This Project is under License of:
-     GPL 3.0
+     APACHE 2.0
 
   ## Contributing
      If you want to contribute, please follow the guidelines.
-     Just follow instructions
+     Read the guidelines
   
   ## Tests
      Instruction on how to run this project:
-     Open console and node filename.js   
+     Open console and run node filename.js   
 
   ## Questions
   ####   If you have any questions, you may contact me on 
