@@ -1,6 +1,6 @@
-# readme ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# REadme Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-  ## readme
+  ## This is a readme generator.
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -12,23 +12,23 @@
      
   ## Installation:
      Steps required to install this Project.
-     command
+     npm install inquirer
 
   ## Usage:
      Uses for this Project.
-     instructions
+     This can be used to generate readme.md file
 
   ## License
      This Project is under License of:
-     GPL 3.0
+     APACHE 2.0
 
   ## Contributing
      If you want to contribute, please follow the guidelines.
-     contribute
+     Just follow instructions
   
   ## Tests
      Instruction on how to run this project:
-     run   
+     Open console and node filename.js   
 
   ## Questions
   ####   If you have any questions, you may contact me on 
