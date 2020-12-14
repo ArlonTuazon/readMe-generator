@@ -19,8 +19,8 @@
 ##   ![](ReadMeGenerator.gif)
 
 ## Video Walkthrough link
-   https://drive.google.com/file/d/1wRR06jOJmCB_9IU1oePWGbEL-cFIvKX8/view
-
+   https://drive.google.com/file/d/1kfPqyfQn2HQTJUVCvT7y_-zTPPP90wSW/view
+   
 ## Github URL
    https://github.com/ArlonTuazon/readMe-generator
 
