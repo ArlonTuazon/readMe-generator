@@ -14,7 +14,7 @@
 
 ## Usage 
    Look at the video
-##   ![](readMe-generator/ReadMeGenerator.gif)
+##   ![](ReadMeGenerator.gif)
 
 ## Github URL
    https://github.com/ArlonTuazon/readMe-generator
