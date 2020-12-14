@@ -1,6 +1,6 @@
-# ReadMe Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# Readme generator ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## This is a command line application that generates readme file
+  ## This will dynamically create a readme file
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -16,15 +16,15 @@
 
   ## Usage:
      Uses for this Project.
-     Please read instructions
+     Read the instructions in main readme
 
   ## License
      This Project is under License of:
-     APACHE 2.0
+     GPL 3.0
 
   ## Contributing
      If you want to contribute, please follow the guidelines.
-     Read the guidelines
+     Follow guidelines
   
   ## Tests
      Instruction on how to run this project:
@@ -33,6 +33,6 @@
   ## Questions
   ####   If you have any questions, you may contact me on 
   ####   [Github] (https://github.com/ArlonTuazon) or contact 
-  ####   Arlon Tuazon at nikka1378@yahoo.com
+  ####   Arlon at nikka1378@yahoo.com
   ####   ![picture](https://github.com/ArlonTuazon.png?size=80)   
 
