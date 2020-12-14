@@ -1,6 +1,6 @@
-# Readme generator ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Readme Generator  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## This will dynamically create a readme file
+  ## This will dynamically generate a readme file
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -16,7 +16,7 @@
 
   ## Usage:
      Uses for this Project.
-     Read the instructions in main readme
+     Read instructions from main readme
 
   ## License
      This Project is under License of:
@@ -28,10 +28,10 @@
   
   ## Tests
      Instruction on how to run this project:
-     Open console and run node filename.js   
+     Open console and type node filename.js   
 
   ## Questions
-  
+
   ####   If you have any questions, you may contact me on 
   ####   [Github] (https://github.com/ArlonTuazon) or contact 
   ####   Arlon at nikka1378@yahoo.com
