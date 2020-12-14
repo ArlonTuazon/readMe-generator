@@ -1,6 +1,6 @@
-# REadme Generator ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# ReadMe Generator ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  ## This is a readme generator.
+  ## Generate a readme file
 
   ## Table of Contents
   #### [Installation](#installation)
@@ -16,11 +16,11 @@
 
   ## Usage:
      Uses for this Project.
-     This can be used to generate readme.md file
+     To generate a readme file
 
   ## License
      This Project is under License of:
-     APACHE 2.0
+     GPL 3.0
 
   ## Contributing
      If you want to contribute, please follow the guidelines.
