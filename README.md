@@ -4,7 +4,7 @@
 
 # README Generator
 
-## This a ReadMe generator that used node.js to create the Readme.md file and based on user input.
+## This a command line application that used node.js to dynamically create the Readme.md file and based on user input.
 
 ## Installation
     * npm install inquirer
@@ -12,7 +12,9 @@
 ## Tests
    You have to open your console and run node filename.js
 
- ## If you have any questions, you may contact me on 
- #### [GitHub] (https://github.com/ArlonTuazon) or contact 
- #### Arlon Tuazon at nikka1378@yahoo.com
- #### ![picture](https://github.com/ArlonTuazon.png?size=80)   
+## Usage 
+   Look at the video
+##   ![ReadME](readMe-generator/ReadMeGenerator.gif)
+
+## Github URL
+   https://github.com/ArlonTuazon/readMe-generator
